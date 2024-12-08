@@ -2,6 +2,7 @@
 data/
 notebooks/biodiversity_of_pheonix.ipynb
 notebooks/ipynb_checkpoints
+notebooks/.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
