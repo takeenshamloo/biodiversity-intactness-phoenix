@@ -1,5 +1,7 @@
 # Files we will not be pushing
 data/
+notebooks/biodiversity_of_pheonix.ipynb
+notebooks/ipynb_checkpoints
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
